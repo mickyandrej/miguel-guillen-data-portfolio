@@ -46,4 +46,4 @@ Data Analyst especializado en construir sistemas inteligentes de datos que elimi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-guillen-12983254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:miguel.guillen29@gmail.com)
-[![Upwork](https://www.upwork.com/freelancers/~011570b46f2467691f?mp_source=share-0A66C2?style=flat&logo=Upwork&logoColor=white)]
+[![Upwork](https://www.upwork.com/freelancers/~011570b46f2467691f?viewMode=1-0A66C2?style=flat&logo=Upwork&logoColor=white)]
